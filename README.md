@@ -1,1 +1,1 @@
-# djangofirst
+# Just Learning Django
